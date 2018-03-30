@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: cffe2622233ec4646b1488656db6ec61
+timeCreated: 1521122688
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Bluefish Demo
+  fontNames:
+  - Bluefish Demo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: ca33f812e2ef04e79b43258fba7d8a9f, type: 3}
+  - {fileID: 12800000, guid: 7727c4c4ec4d54322ba8cc81f2f340dc, type: 3}
+  - {fileID: 12800000, guid: 03c768bb7a6274e30ae7edbd8b55b527, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

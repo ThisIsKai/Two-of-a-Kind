@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - EnvironmentBars
+  - CameraAnchorTag
+  - DangerTag
+  - BasicObsticles
+  - RedGoal
+  - BlueGoal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Players
+  - Text
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Players
+    uniqueID: 551090445
+    locked: 0
+  - name: New Layer
+    uniqueID: 2872335285
+    locked: 0
+  - name: UI Stuff
+    uniqueID: 1648250809
+    locked: 0
+  - name: New Layer
+    uniqueID: 2696252415
+    locked: 0
